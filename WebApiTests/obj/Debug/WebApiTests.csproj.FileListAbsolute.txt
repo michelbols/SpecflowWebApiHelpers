@@ -1,0 +1,11 @@
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\WebApiTests\bin\Debug\WebApiTests.dll.config
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\WebApiTests\bin\Debug\WebApiTests.dll
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\WebApiTests\bin\Debug\WebApiTests.pdb
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\WebApiTests\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\WebApiTests\bin\Debug\xunit.dll
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\WebApiTests\bin\Debug\xunit.extensions.dll
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\WebApiTests\bin\Debug\xunit.xml
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\WebApiTests\bin\Debug\xunit.extensions.xml
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\WebApiTests\obj\Debug\WebApiTests.csprojResolveAssemblyReference.cache
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\WebApiTests\obj\Debug\WebApiTests.dll
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\WebApiTests\obj\Debug\WebApiTests.pdb

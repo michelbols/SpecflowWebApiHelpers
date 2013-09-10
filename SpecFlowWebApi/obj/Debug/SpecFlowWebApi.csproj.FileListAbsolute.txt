@@ -1,0 +1,6 @@
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\SpecFlowWebApi\bin\Debug\SpecFlowWebApi.exe.config
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\SpecFlowWebApi\obj\Debug\SpecFlowWebApi.csprojResolveAssemblyReference.cache
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\SpecFlowWebApi\bin\Debug\SpecFlowWebApi.exe
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\SpecFlowWebApi\bin\Debug\SpecFlowWebApi.pdb
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\SpecFlowWebApi\obj\Debug\SpecFlowWebApi.exe
+c:\users\d.jacques\documents\visual studio 2012\Projects\SpecFlowWebApi\SpecFlowWebApi\obj\Debug\SpecFlowWebApi.pdb
