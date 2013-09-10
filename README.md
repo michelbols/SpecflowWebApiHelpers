@@ -35,7 +35,9 @@ available in the "ScenarioContext" in the form of a "HttpResponseMessage".
 
 To retrieve the response from the context, use the following code:
 
+```
 var response = ScenarioContext.Current.Get<HttpResponseMessage>(CURRENTRESPONSE);
+```
 
 SpecflowWebApiHelpers - Example
 =====================
