@@ -29,7 +29,10 @@ It currently has the following steps:
 
 "Then the status code should be <status code>"
 
-The http response is available in the "ScenarioContext" in the form of a "HttpResponseMessage". 
+
+<b>To use this with your own tests e.g. test the response body etc, the http response is
+available in the "ScenarioContext" in the form of a "HttpResponseMessage". </b>
+
 To retrieve the response from the context, use the following code:
 
 var response = ScenarioContext.Current.Get<HttpResponseMessage>(CURRENTRESPONSE);
