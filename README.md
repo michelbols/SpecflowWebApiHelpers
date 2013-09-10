@@ -9,29 +9,29 @@ At the moment it is targeting testing any webapi.
 
 It currently has the following steps:
 
-1) Setting the host and port:
+###1) Setting the host and port:
 
 "Given I make a new request to <host> on port <port>"
 
-2) Setting the path of the url:
+###2) Setting the path of the url:
 
 "Given the path is <path>"
 
-3) Adding a dynamic fieldset of query parameters to the query string:
+###3) Adding a dynamic fieldset of query parameters to the query string:
 
 "Given I add the following fields as query parameters" (add table)
 
-4) Invoking the actual http request:
+###4) Invoking the actual http request:
 
 "When the request has compeleted"
 
-4) Giving a basic test on the status code returned:
+###5) Giving a basic test on the status code returned:
 
 "Then the status code should be <status code>"
 
-
-<b>To use this with your own tests e.g. test the response body etc, the http response is
-available in the "ScenarioContext" in the form of a "HttpResponseMessage". </b>
+##Using these steps in your own scenarioss
+To use this with your own scenarios e.g. test the response body etc, the http response is
+available in the "ScenarioContext" in the form of a "HttpResponseMessage".
 
 To retrieve the response from the context, use the following code:
 
