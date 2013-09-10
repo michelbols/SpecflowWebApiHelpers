@@ -39,7 +39,7 @@ var response = ScenarioContext.Current.Get<HttpResponseMessage>(CURRENTRESPONSE)
 
 SpecflowWebApiHelpers - Example
 =====================
-`
+```
 Feature: HttpFeature
 	In order to make an http request
 	As a webapi tester
@@ -57,5 +57,5 @@ Scenario: Test HTTP call
 	When the request has compeleted
 	Then the status code should be 200
 	
-`	
+```	
 	
